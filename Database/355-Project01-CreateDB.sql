@@ -1,5 +1,3 @@
-#USE bdale_cs355sp23;    # Not sure if this was needed here, but is here if required
-
 # ------------------ Drop all tables if they exist ------------------ #
 DROP TABLE IF EXISTS Visit_Service;
 DROP TABLE IF EXISTS Pet_Owner;
