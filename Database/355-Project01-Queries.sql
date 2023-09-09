@@ -1,6 +1,3 @@
-#USE bdale_cs355sp23;     # Not sure if this was needed here, but is here if required
-
-
 # ------------------------------ QUERIES ------------------------------ #
 
 # Query 1 - List all services that are offerred but have never been used
